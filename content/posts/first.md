@@ -9,3 +9,4 @@ categories: ["blog"]
 
 build hugo blog
 
+[参考文档](https://xyslion.github.io/notes/hugo-note/)
